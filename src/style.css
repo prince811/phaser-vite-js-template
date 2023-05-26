@@ -4,6 +4,9 @@ body {
   padding: 0;
 }
 
-canvas {
-  display: block;
+#block-builder-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
 }
